@@ -6,3 +6,5 @@ What it does is
 3.  slight tweaks in title screen
 4.   i accidentally made the bombs go gray and i like em
    And yeah this is a small rom hack made by a little new Dev i hope you enjoy!
+
+Screenshots captured in the iNES emulator during gameplay testing.
